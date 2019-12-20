@@ -7,8 +7,8 @@
 
  1. Yashank-
     (i) Working on Unity for Past 1 year.
-    (ii) Languages - C, Java, C#, HTML, CSS, JavaScript, Angular Js, React, Dart.
-    (iii) Tools and Frameworks - Bootstrap, Unity 3D, Blender, Canva.
+    (ii) Languages - C, Java, C#, HTML, CSS, JavaScript, Dart.
+    (iii) Tools and Frameworks - Bootstrap, Unity 3D, Blender, Canva, Angular Js, React.
     (iv) Core Member at Developer Student Clubs, Chitkara University.
     (v) Currently working on patented projects, Gas Burners, and Kissan Urea Mitter-a smart urea spreading machine. QuaterFinalists of IICDC 2019-20.
     (vi) Software supporter for BrilTab Edukit-1, a smart braille for blind people.
